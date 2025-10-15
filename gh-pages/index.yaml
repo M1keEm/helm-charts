@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  nginx-app:
+  - apiVersion: v2
+    appVersion: "1.27"
+    created: "2025-10-15T15:17:50.876597+02:00"
+    description: Production-grade nginx microservice with config, auth, PVC, HPA and
+      optional ingress/TLS
+    digest: 3a483f680c9507ac2f50ff7ab7d185f9ae7e665ca708ca07aa8fc016b0b16b06
+    name: nginx-app
+    type: application
+    urls:
+    - https://m1keem.github.io/helm-charts/gh-pages/nginx-app-0.2.0.tgz
+    version: 0.2.0
+generated: "2025-10-15T15:17:50.875762+02:00"
